@@ -1,0 +1,21 @@
+THIRD-PARTY SOURCES AND ASSET RIGHTS
+
+Style prompts and procedural soundtrack toolkit:
+Vincentwei1021/mg-styles-15
+https://github.com/Vincentwei1021/mg-styles-15
+Snapshot: 49052d80bfaf9fa8412cc9710530e5e95a3b8d8c
+Project code/prompts/documentation: MIT (full notice: mg-styles-15-MIT.txt).
+VCSL instrument samples used by that toolkit: CC0, as stated in the reference repository README. Only arranged soundtracks are distributed here; the instrument library is not bundled.
+
+Fonts: DM Sans, Instrument Serif, IBM Plex Mono.
+SIL Open Font License; full texts are included beside the font files in the website root (the three -OFL.txt files).
+
+GSAP 3.14.2: Copyright 2025 GreenSock. Original header retained in source/vendor/gsap.min.js. Subject to the GSAP Standard License:
+https://gsap.com/standard-license
+See GSAP-NOTICE.txt.
+
+FUCHEN mark and selected product photography: original rights retained.
+Their inclusion in this collection does not place them under the MIT, CC0 or OFL licences of the third-party tools and fonts.
+Product photo checksums are recorded in the clean editable source archive without private source paths.
+
+No pre-recorded commercial music master or outside film clip is bundled.
